@@ -1,0 +1,14 @@
+{
+  "name": "ww-smart-tree",
+  "version": "4.0.0",
+  "scripts": {
+    "build": "weweb build -- name=ww-smart-tree type=element",
+    "serve": "weweb serve"
+  },
+  "devDependencies": {
+    "@weweb/cli": "latest"
+  },
+  "dependencies": {
+    "@wsfe/vue-tree": "^4.1.1"
+  }
+}
